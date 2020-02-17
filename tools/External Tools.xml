@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Package CMJ" description="Package CMJ in order to Quick Reload" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\git\rollout\packagePlugin.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/git/rollout" />
+    </exec>
+  </tool>
+</toolSet>

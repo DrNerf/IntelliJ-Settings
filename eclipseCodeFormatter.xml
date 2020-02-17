@@ -1,0 +1,24 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="5768" />
+        <option name="firstUsage" value="1549546478135" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+        <option name="lastNaggingDate" value="1559828332718" />
+      </DonationNagger>
+    </option>
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1549547518435" />
+          <option name="importOrder" value="java;javax;org;com;com.atlassian;" />
+          <option name="name" value="new" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/Desktop/BotronsoftFormatterProfile.xml" />
+          <option name="selectedJavaProfile" value="botronsoft" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
